@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Sc Hons(Data science and artificial intelligence) graduate MCA in DS and AI
+B.Sc Hons(Data science and artificial intelligence) graduate and MCA in DS and AI
 
 
 ## 🌐 Socials:
