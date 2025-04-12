@@ -1,5 +1,26 @@
 # 💫 About Me:
-B.Sc Hons(Data science and artificial intelligence) graduate and MCA in DS and AI
+👋 About Me
+Hi there! I’m a passionate and self-driven Computer Science enthusiast with a strong interest in Data Science, Cloud Computing, Artificial Intelligence, and Software Development. I love building practical solutions and exploring new technologies that solve real-world problems.
+
+🔍 What I Do:
+
+📊 Work on machine learning and deep learning projects focused on domains like healthcare, agriculture, and finance.
+
+☁️ Completed certifications from NPTEL (IITs), Google Cloud, Microsoft, Cisco, and more — covering topics like Deep Learning, Cloud Computing, AI, and UML Design.
+
+📚 Conducted literature surveys in areas like cardiovascular disease prediction, credit scoring for loan approval, and paddy leaf disease detection.
+
+🧠 Skills & Interests:
+
+Programming: Python, Java, SQL
+
+Tools & Tech: Google Cloud, TensorFlow, Scikit-learn, Power BI
+
+Concepts: Data Analysis, Neural Networks, Software Design, Cloud Infrastructure
+
+🌱 I’m always learning — currently diving deeper into AI model optimization, cloud architecture, and software engineering principles.
+
+📫 Let’s connect! I'm open to collaborations, internships, or projects in the field of AI, data science, or full-stack development.
 
 
 ## 🌐 Socials:
